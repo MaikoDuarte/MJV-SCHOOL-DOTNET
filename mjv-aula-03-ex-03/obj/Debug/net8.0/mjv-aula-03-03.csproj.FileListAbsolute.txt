@@ -1,0 +1,14 @@
+C:\Users\maiko\mjv-aula-03-03\bin\Debug\net8.0\mjv-aula-03-03.exe
+C:\Users\maiko\mjv-aula-03-03\bin\Debug\net8.0\mjv-aula-03-03.deps.json
+C:\Users\maiko\mjv-aula-03-03\bin\Debug\net8.0\mjv-aula-03-03.runtimeconfig.json
+C:\Users\maiko\mjv-aula-03-03\bin\Debug\net8.0\mjv-aula-03-03.dll
+C:\Users\maiko\mjv-aula-03-03\bin\Debug\net8.0\mjv-aula-03-03.pdb
+C:\Users\maiko\mjv-aula-03-03\obj\Debug\net8.0\mjv-aula-03-03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maiko\mjv-aula-03-03\obj\Debug\net8.0\mjv-aula-03-03.AssemblyInfoInputs.cache
+C:\Users\maiko\mjv-aula-03-03\obj\Debug\net8.0\mjv-aula-03-03.AssemblyInfo.cs
+C:\Users\maiko\mjv-aula-03-03\obj\Debug\net8.0\mjv-aula-03-03.csproj.CoreCompileInputs.cache
+C:\Users\maiko\mjv-aula-03-03\obj\Debug\net8.0\mjv-aula-03-03.dll
+C:\Users\maiko\mjv-aula-03-03\obj\Debug\net8.0\refint\mjv-aula-03-03.dll
+C:\Users\maiko\mjv-aula-03-03\obj\Debug\net8.0\mjv-aula-03-03.pdb
+C:\Users\maiko\mjv-aula-03-03\obj\Debug\net8.0\mjv-aula-03-03.genruntimeconfig.cache
+C:\Users\maiko\mjv-aula-03-03\obj\Debug\net8.0\ref\mjv-aula-03-03.dll

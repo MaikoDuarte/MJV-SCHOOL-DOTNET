@@ -1,0 +1,14 @@
+C:\Users\maiko\mjv\bin\Debug\net8.0\mjv.exe
+C:\Users\maiko\mjv\bin\Debug\net8.0\mjv.deps.json
+C:\Users\maiko\mjv\bin\Debug\net8.0\mjv.runtimeconfig.json
+C:\Users\maiko\mjv\bin\Debug\net8.0\mjv.dll
+C:\Users\maiko\mjv\bin\Debug\net8.0\mjv.pdb
+C:\Users\maiko\mjv\obj\Debug\net8.0\mjv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maiko\mjv\obj\Debug\net8.0\mjv.AssemblyInfoInputs.cache
+C:\Users\maiko\mjv\obj\Debug\net8.0\mjv.AssemblyInfo.cs
+C:\Users\maiko\mjv\obj\Debug\net8.0\mjv.csproj.CoreCompileInputs.cache
+C:\Users\maiko\mjv\obj\Debug\net8.0\mjv.dll
+C:\Users\maiko\mjv\obj\Debug\net8.0\refint\mjv.dll
+C:\Users\maiko\mjv\obj\Debug\net8.0\mjv.pdb
+C:\Users\maiko\mjv\obj\Debug\net8.0\mjv.genruntimeconfig.cache
+C:\Users\maiko\mjv\obj\Debug\net8.0\ref\mjv.dll

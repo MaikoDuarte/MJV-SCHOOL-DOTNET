@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "nvv2v74xECrKs8tzH7bsWhSVtvu3nl2Pz37tRfn+tjF8IcxrAh32vLlDkVb2KF4TDu84MwcI1kh6LtkMjxiLVQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maiko\\exercicio_06-11\\exercicio_06-11.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maiko\\.nuget\\packages\\system.text.encodings.web\\7.0.0\\system.text.encodings.web.7.0.0.nupkg.sha512",
+    "C:\\Users\\maiko\\.nuget\\packages\\system.text.json\\7.0.3\\system.text.json.7.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

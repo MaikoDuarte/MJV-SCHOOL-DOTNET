@@ -1,0 +1,12 @@
+[submodule "Projeto-dias-restantes"]
+	path = Projeto-dias-restantes
+	url = https://github.com/MaikoDuarte/Projeto-calcular-dias-restantes
+[submodule "mjv-aula-08-seralizacoa"]
+	path = mjv-aula-08-seralizacoa
+	url = https://github.com/MaikoDuarte/mjv-exercicio-serializacao
+[submodule "loteria"]
+	path = loteria
+	url = https://github.com/MaikoDuarte/Projeto-mega-sena
+[submodule "exercicio-serializacao"]
+	path = exercicio-serializacao
+	url = https://github.com/MaikoDuarte/mjv-exercicio-serializacao.git

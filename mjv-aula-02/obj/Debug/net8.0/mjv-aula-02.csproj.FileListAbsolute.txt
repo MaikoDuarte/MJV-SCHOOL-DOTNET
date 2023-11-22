@@ -1,0 +1,14 @@
+C:\Users\maiko\mjv-aula-02\bin\Debug\net8.0\mjv-aula-02.exe
+C:\Users\maiko\mjv-aula-02\bin\Debug\net8.0\mjv-aula-02.deps.json
+C:\Users\maiko\mjv-aula-02\bin\Debug\net8.0\mjv-aula-02.runtimeconfig.json
+C:\Users\maiko\mjv-aula-02\bin\Debug\net8.0\mjv-aula-02.dll
+C:\Users\maiko\mjv-aula-02\bin\Debug\net8.0\mjv-aula-02.pdb
+C:\Users\maiko\mjv-aula-02\obj\Debug\net8.0\mjv-aula-02.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\maiko\mjv-aula-02\obj\Debug\net8.0\mjv-aula-02.AssemblyInfoInputs.cache
+C:\Users\maiko\mjv-aula-02\obj\Debug\net8.0\mjv-aula-02.AssemblyInfo.cs
+C:\Users\maiko\mjv-aula-02\obj\Debug\net8.0\mjv-aula-02.csproj.CoreCompileInputs.cache
+C:\Users\maiko\mjv-aula-02\obj\Debug\net8.0\mjv-aula-02.dll
+C:\Users\maiko\mjv-aula-02\obj\Debug\net8.0\refint\mjv-aula-02.dll
+C:\Users\maiko\mjv-aula-02\obj\Debug\net8.0\mjv-aula-02.pdb
+C:\Users\maiko\mjv-aula-02\obj\Debug\net8.0\mjv-aula-02.genruntimeconfig.cache
+C:\Users\maiko\mjv-aula-02\obj\Debug\net8.0\ref\mjv-aula-02.dll

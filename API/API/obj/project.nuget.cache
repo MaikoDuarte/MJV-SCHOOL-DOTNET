@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "p5jBimcdoPzfHgJI6OFiquz67c3pKHYj8FD5geNb8q2pSCohFF2ahVW2Wg0FlFMJll0YVTTcU1wynK4iSzq+gA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\maiko\\MJV-SCHOOL-NET\\API\\API\\API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\maiko\\.nuget\\packages\\microsoft.aspnetcore.openapi\\8.0.0-rc.2.23480.2\\microsoft.aspnetcore.openapi.8.0.0-rc.2.23480.2.nupkg.sha512",
+    "C:\\Users\\maiko\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\maiko\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\maiko\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\maiko\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\maiko\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\maiko\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}

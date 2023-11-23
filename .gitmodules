@@ -10,3 +10,6 @@
 [submodule "exercicio-serializacao"]
 	path = exercicio-serializacao
 	url = https://github.com/MaikoDuarte/mjv-exercicio-serializacao.git
+[submodule "Projeto-MJV-Loja-Carros"]
+	path = Projeto-MJV-Loja-Carros
+	url = https://github.com/MaikoDuarte/Projeto-MJV-Loja-Carros.git
